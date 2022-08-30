@@ -1,0 +1,49 @@
+.sign_upModal{
+
+
+    .modal-header{
+
+        button{
+          align-self: flex-start;
+        }
+    }
+
+    .signup_form{
+       div[data-lastpass-icon-root="true"] {
+        display: none;
+       }  
+
+       input{
+          border: 1px solid #999;
+          border-radius: 6px;
+          background-color: #f5f6f7;
+         &::placeholder{
+          color: #999;
+         }
+        
+       }
+
+       .submit-btn{
+          input{
+             background-color: #3bac24;
+             border-radius: 6px;
+             border:none;
+          }
+        
+       }
+
+       select{
+        border: 1px solid #999;
+        border-radius: 6px;
+        background-color: #f5f6f7;
+       }
+     
+       div.radio-wrap{
+        border: 1px solid #999;
+        border-radius: 6px;
+        background-color: #f5f6f7;
+       }
+
+      
+    }
+}

@@ -1,0 +1,27 @@
+#pageFooter{
+    padding: 20px 0;
+    ul {
+        margin: 0;
+        li {
+            a{
+                text-decoration: none;
+                display: inline-block;
+                color: #737373;
+                font-size: 12px;
+            }
+        }
+    }
+
+    .line{
+        border-bottom: 1px solid #dddfe2;
+        margin: 10px 0;
+    }
+
+    .copy_right{
+        span{
+            display: inline-block;
+            color: #737373;
+            font-size: 12px; 
+        }
+    }
+}
