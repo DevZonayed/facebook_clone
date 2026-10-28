@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "libphonenumber-js": "^1.10.12",
     "mongoose": "^6.5.2",
-    "nodemailer": "^6.7.8",
+    "nodemailer": "^10.1.4",
     "validator": "^13.7.0"
   }
 }
